@@ -43,4 +43,4 @@ Computer Science undergraduate, AI engineer, and systems researcher focusing on 
 ## Contact
 
 - GitHub: [@ijstt](https://github.com/ijstt)
-- Telegram: [@ijstt_resurrected](https://t.me/ijstt_resurrected)
+- Telegram: [@ijstt](https://t.me/ijstt)
