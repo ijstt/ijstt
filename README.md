@@ -1,14 +1,14 @@
 # Vladimir Fedorko (ijstt)
 
-Computer Science undergraduate, AI engineer, and systems developer focusing on applied machine learning, multimodal agent architectures, financial modeling, and high-performance backend pipelines.
+Computer Science undergraduate, AI engineer, and systems developer focusing on applied machine learning, multimodal agent architectures, network systems, and high-performance backend pipelines.
 
 ---
 
 ## Areas of Focus
 
-- **Multimodal AI Agents & Browser Automation**: Autonomous browser DOM pilots, local automatic speech recognition (Whisper / faster-whisper), multimodal perception pipelines, and human-in-the-loop validation.
+- **Multimodal AI Agents & Automation**: Autonomous browser DOM pilots, local speech recognition (Whisper), multimodal perception pipelines, and 24/7 edge Telegram gateways.
 - **Applied Machine Learning & FinTech**: Cashflow forecasting, financial anomaly detection, transaction graph modeling, and domain-adapted transformer fine-tuning.
-- **Systems & Engineering**: High-throughput Linux pipelines, containerized microservices, C++/Python bindings, and asynchronous networking.
+- **Homelab & Network Systems**: Transparent ARP redirection on raw sockets (`AF_PACKET`), policy-based multi-hop VPN routing, and Prometheus/Grafana telemetry on ARM64.
 - **Scientific & Academic Interests**: Computational neuroscience, event-driven computing architectures, and quantitative algorithms.
 
 ---
@@ -18,9 +18,11 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 | Repository | Focus | Tech Stack | Status |
 |---|---|---|---|
 | [moodle-ai-pilot](https://github.com/ijstt/moodle-ai-pilot) | Multimodal automated assistant for LMS quizzes with local Whisper ASR and DOM injection | Python, FastAPI, faster-whisper, JavaScript | Active |
+| [cascade-network-gateway](https://github.com/ijstt/cascade-network-gateway) | Transparent LAN ARP gateway and multi-node mesh telemetry for Raspberry Pi homelab | Python, Raw Sockets, Prometheus, Grafana | Active |
+| [antigravity-telegram-bridge](https://github.com/ijstt/antigravity-telegram-bridge) | 24/7 edge Telegram bridge for local AI agent with dynamic ARP discovery and Obsidian sync | Python, Telegram Bot API, requests | Active |
 | [centrinvest-cashflow](https://github.com/ijstt/centrinvest-cashflow) | Machine learning pipeline for corporate cashflow forecasting and anomaly detection | Python, LightGBM, CatBoost, Scikit-Learn | Maintained |
+| [Home-AI_Agent](https://github.com/ijstt/Home-AI_Agent) | Offline local voice AI assistant on Raspberry Pi 4B with Vosk, Piper, and Qwen2.5 | Python, Docker Compose, Redis, GTK4 | Maintained |
 | [ShkereBERT](https://github.com/ijstt/ShkereBERT) | Transformer architecture fine-tuning and domain adaptation for text classification | PyTorch, Hugging Face Transformers | Maintained |
-| [Home-AI_Agent](https://github.com/ijstt/Home-AI_Agent) | Local automation agent with voice/text triggers and home infrastructure integration | Python, asyncio, REST | Maintained |
 
 ---
 
@@ -29,7 +31,8 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 - **Languages**: Python, C++, SQL, Bash, JavaScript
 - **ML & Scientific Computing**: PyTorch, NumPy, SciPy, Pandas, Scikit-Learn, LightGBM, CatBoost, Hugging Face
 - **Agents & Perception**: faster-whisper, OpenCV, Playwright, DOM APIs, OpenAI / Anthropic / Gemini SDKs
-- **Backend & Tooling**: FastAPI, Docker, Git, Linux (Arch/Debian/Fedora), SQLite, PostgreSQL
+- **Network & Homelab**: Raw Sockets (`AF_PACKET`), sing-box, xray, Prometheus, Grafana, Docker, systemd, Raspberry Pi OS
+- **Backend & Tooling**: FastAPI, Docker Compose, Git, Linux (Arch/Debian/Fedora), SQLite, PostgreSQL
 
 ---
 
