@@ -1,15 +1,15 @@
 # Vladimir Fedorko (ijstt)
 
-Computer Science undergraduate, AI engineer, and systems researcher focusing on neuromorphic computation, applied machine learning, multimodal agent architectures, and quantitative modeling.
+Computer Science undergraduate, AI engineer, and systems developer focusing on applied machine learning, multimodal agent architectures, financial modeling, and high-performance backend pipelines.
 
 ---
 
 ## Areas of Focus
 
-- **Neuromorphic Computing & Computational Neuroscience**: Spiking neural network (SNN) dynamics, biophysical jump-diffusion processes, leaky integrate-and-fire (LIF) approximations, and event-based sensor processing.
-- **Multimodal AI Agents & Automation**: Autonomous browser DOM pilots, local automatic speech recognition (Whisper / faster-whisper), multimodal perception pipelines, and human-in-the-loop validation.
+- **Multimodal AI Agents & Browser Automation**: Autonomous browser DOM pilots, local automatic speech recognition (Whisper / faster-whisper), multimodal perception pipelines, and human-in-the-loop validation.
 - **Applied Machine Learning & FinTech**: Cashflow forecasting, financial anomaly detection, transaction graph modeling, and domain-adapted transformer fine-tuning.
 - **Systems & Engineering**: High-throughput Linux pipelines, containerized microservices, C++/Python bindings, and asynchronous networking.
+- **Scientific & Academic Interests**: Computational neuroscience, event-driven computing architectures, and quantitative algorithms.
 
 ---
 
