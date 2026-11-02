@@ -35,8 +35,10 @@ Computer Science undergraduate, AI engineer, and systems researcher focusing on 
 
 ## Profile Statistics
 
-![ijstt GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijstt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ijstt&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ijstt&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ijstt&theme=tokyonight" alt="Top Languages by Repo" />
+</p>
 
 ---
 
