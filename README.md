@@ -20,7 +20,7 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 | [moodle-ai-pilot](https://github.com/ijstt/moodle-ai-pilot) | Multimodal automated assistant for LMS quizzes with local Whisper ASR and DOM injection | Python, FastAPI, faster-whisper, JavaScript | Active |
 | [cascade-network-gateway](https://github.com/ijstt/cascade-network-gateway) | Transparent LAN ARP gateway and multi-node mesh telemetry for Raspberry Pi homelab | Python, Raw Sockets, Prometheus, Grafana | Active |
 | [antigravity-telegram-bridge](https://github.com/ijstt/antigravity-telegram-bridge) | 24/7 edge Telegram bridge for local AI agent with dynamic ARP discovery and Obsidian sync | Python, Telegram Bot API, requests | Active |
-| [centrinvest-cashflow](https://github.com/ijstt/centrinvest-cashflow) | Machine learning pipeline for corporate cashflow forecasting and anomaly detection | Python, LightGBM, CatBoost, Scikit-Learn | Maintained |
+| [centrinvest-cashflow](https://github.com/ijstt/centrinvest-cashflow) | Accounting-informed cashflow forecasting, conformal risk corridors, and first passage time ruin modeling | Python, FastAPI, Scikit-Learn, NumPy, React | Maintained |
 | [Home-AI_Agent](https://github.com/ijstt/Home-AI_Agent) | Offline local voice AI assistant on Raspberry Pi 4B with Vosk, Piper, and Qwen2.5 | Python, Docker Compose, Redis, GTK4 | Maintained |
 | [ShkereBERT](https://github.com/ijstt/ShkereBERT) | Transformer architecture fine-tuning and domain adaptation for text classification | PyTorch, Hugging Face Transformers | Maintained |
 
@@ -29,7 +29,7 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 ## Technical Stack
 
 - **Languages**: Python, C++, SQL, Bash, JavaScript
-- **ML & Scientific Computing**: PyTorch, NumPy, SciPy, Pandas, Scikit-Learn, LightGBM, CatBoost, Hugging Face
+- **ML & Scientific Computing**: PyTorch, NumPy, SciPy, Pandas, Scikit-Learn, Hugging Face
 - **Agents & Perception**: faster-whisper, OpenCV, Playwright, DOM APIs, OpenAI / Anthropic / Gemini SDKs
 - **Network & Homelab**: Raw Sockets (`AF_PACKET`), sing-box, xray, Prometheus, Grafana, Docker, systemd, Raspberry Pi OS
 - **Backend & Tooling**: FastAPI, Docker Compose, Git, Linux (Arch/Debian/Fedora), SQLite, PostgreSQL
