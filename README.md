@@ -6,8 +6,8 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 
 ## Areas of Focus
 
-- **Multimodal AI Agents & Automation**: Autonomous browser DOM pilots, local speech recognition (Whisper), multimodal perception pipelines, and 24/7 edge Telegram gateways.
-- **Applied Machine Learning & FinTech**: Cashflow forecasting, financial anomaly detection, transaction graph modeling, and domain-adapted transformer fine-tuning.
+- **Autonomous AI Agents & Research Systems**: Multi-agent hypothesis experimentation (Mission Planner, Worker, Adversarial Reviewer), blind anti-leakage verification gates, Model Context Protocol (MCP) servers, and autonomous skill distillation.
+- **Applied Machine Learning & FinTech**: Cashflow forecasting, conformal risk corridors, financial anomaly detection, and transformer fine-tuning.
 - **Homelab & Network Systems**: Transparent ARP redirection on raw sockets (`AF_PACKET`), policy-based multi-hop VPN routing, and Prometheus/Grafana telemetry on ARM64.
 - **Scientific & Academic Interests**: Computational neuroscience, event-driven computing architectures, and quantitative algorithms.
 
@@ -17,6 +17,7 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 
 | Repository | Focus | Tech Stack | Status |
 |---|---|---|---|
+| [hyra-research](https://github.com/ijstt/hyra-research) | Autonomous AI research harness with blind peer review, zero project pollution, and MCP server | Python, Model Context Protocol, Antigravity SDK, Pytest | Active |
 | [moodle-ai-pilot](https://github.com/ijstt/moodle-ai-pilot) | Multimodal automated assistant for LMS quizzes with local Whisper ASR and DOM injection | Python, FastAPI, faster-whisper, JavaScript | Active |
 | [cascade-network-gateway](https://github.com/ijstt/cascade-network-gateway) | Transparent LAN ARP gateway and multi-node mesh telemetry for Raspberry Pi homelab | Python, Raw Sockets, Prometheus, Grafana | Active |
 | [antigravity-telegram-bridge](https://github.com/ijstt/antigravity-telegram-bridge) | 24/7 edge Telegram bridge for local AI agent with dynamic ARP discovery and Obsidian sync | Python, Telegram Bot API, requests | Active |
@@ -30,7 +31,7 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 
 - **Languages**: Python, C++, SQL, Bash, JavaScript
 - **ML & Scientific Computing**: PyTorch, NumPy, SciPy, Pandas, Scikit-Learn, Hugging Face
-- **Agents & Perception**: faster-whisper, OpenCV, Playwright, DOM APIs, OpenAI / Anthropic / Gemini SDKs
+- **Agents & Perception**: Model Context Protocol (MCP), faster-whisper, OpenCV, Playwright, DOM APIs, OpenAI / Anthropic / Gemini SDKs
 - **Network & Homelab**: Raw Sockets (`AF_PACKET`), sing-box, xray, Prometheus, Grafana, Docker, systemd, Raspberry Pi OS
 - **Backend & Tooling**: FastAPI, Docker Compose, Git, Linux (Arch/Debian/Fedora), SQLite, PostgreSQL
 
