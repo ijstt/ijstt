@@ -19,6 +19,7 @@ Computer Science undergraduate, AI engineer, and systems developer focusing on a
 |---|---|---|---|
 | [hyra-research](https://github.com/ijstt/hyra-research) | Autonomous AI research harness with blind peer review, zero project pollution, and MCP server | Python, Model Context Protocol, Antigravity SDK, Pytest | Active |
 | [mail-triage-daemon](https://github.com/ijstt/mail-triage-daemon) | Autonomous multi-account email triage daemon with sub-millisecond OTP interception, Telegram gateway, and Antigravity MCP | Python, asyncio, IMAP IDLE, Telegram Bot API, MCP | Active |
+| [antigravity-mobile-companion](https://github.com/ijstt/antigravity-mobile-companion) | Native Android companion client for Google Antigravity with real-time WebSockets and LAN pairing | Kotlin, Jetpack Compose, Material 3, OkHttp, Coroutines | Active |
 | [moodle-ai-pilot](https://github.com/ijstt/moodle-ai-pilot) | Multimodal automated assistant for LMS quizzes with local Whisper ASR and DOM injection | Python, FastAPI, faster-whisper, JavaScript | Active |
 | [cascade-network-gateway](https://github.com/ijstt/cascade-network-gateway) | Transparent LAN ARP gateway and multi-node mesh telemetry for Raspberry Pi homelab | Python, Raw Sockets, Prometheus, Grafana | Active |
 | [antigravity-telegram-bridge](https://github.com/ijstt/antigravity-telegram-bridge) | 24/7 edge Telegram bridge for local AI agent with dynamic ARP discovery and Obsidian sync | Python, Telegram Bot API, requests | Active |
